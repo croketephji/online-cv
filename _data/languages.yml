@@ -1,9 +1,12 @@
 - language:
   idiom: English
+  level: Near-native
+- language:
+  idiom: Dutch
   level: Native
 - language:
   idiom: French
   level: Professional
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: Arabic
+  level: Intermediate
