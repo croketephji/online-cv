@@ -1,9 +1,12 @@
 - skill:
-  name: Design
-  level: 90%
+  name: Graphic design
+  level: 95%
 - skill:
   name: Vector Graphics
   level: 95%
+- skill:
+  name: Layouting
+  level: 75%
 - skill:
   name: Computer troubleshooting
   level: 95%
@@ -11,8 +14,8 @@
   name: Website building using Jekyll
   level: 70%
 - skill:
-  name: Redaction
-  level: 100%
-- skill:
   name: Creative writing
+  level: 95%
+- skill:
+  name: Redaction
   level: 95%

@@ -12,9 +12,9 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: David Knapen
-tagline: Aesthete geek
+tagline: Aesthete geek humanitarian
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I'm obsessed with painting color into text and making pictures tell the story. And I'm not afraid to use Google to find the most compelling way to do it."
+summary: "Painting color into text. Having pictures tell a story. Finding the most compelling way to do it."
 
 #sidebar links
 email: david@crater.company
