@@ -1,7 +1,10 @@
 - intro:
-  description: "Take a look at my web site at to see what I've been up to. Some recents highlights from my design, artwork and writings are shown below."
-
+  description: "Take a look at some of my projects since I arrived in Palestine."
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Sinsila
+  link: "https://globalgamejam.org/2018/games/sinsila"
+  tagline: "I created this board game with Rami at the Global Game Jam in Ramallah. You play as a Palestinian farmer trying to build and maintain a traditional stone terrace wall."
+- project:
+  title: Crater Company
+  link: "http://www.crater.company"
+  tagline: "A simple site to host stories and graphics from Palestine. Not that much content yet - I got carried away by web development soon afterwards!"
