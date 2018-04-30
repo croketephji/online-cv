@@ -8,3 +8,7 @@
   title: Crater Company
   link: "http://www.crater.company"
   tagline: "A simple site to host stories and graphics from Palestine. Not that much content yet - I got carried away by web development soon afterwards!"
+- project:
+  title: Pi Kwadraat
+  link: "http://pikwadraat.be/index_en"
+  tagline: "Fully responsive static web site for a Belgian art gallery, created from scratch. Full-page CSS grid with flexbox for 'masonry' images flow. Designed to be as easy as possible for the end user to add and edit content."
